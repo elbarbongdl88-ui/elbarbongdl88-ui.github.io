@@ -1,2 +1,6 @@
 # elbarbongdl88-ui.github.io
-User GitHub Pages site for Grokbotapp (free mirror of Railway production)
+
+Free user-site GitHub Pages mirror of Grokbotapp.
+
+- This site: https://elbarbongdl88-ui.github.io/
+- Production: https://grokbotapp.up.railway.app/
